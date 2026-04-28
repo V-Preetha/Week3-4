@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ClientRiskSorter/ClientRiskSorter.iml" filepath="$PROJECT_DIR$/ClientRiskSorter/ClientRiskSorter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PortfolioSorter/PortfolioSorter.iml" filepath="$PROJECT_DIR$/PortfolioSorter/PortfolioSorter.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/RA2411003011726.iml" filepath="$PROJECT_DIR$/.idea/RA2411003011726.iml" />
       <module fileurl="file://$PROJECT_DIR$/TradeAnalysis/TradeAnalysis.iml" filepath="$PROJECT_DIR$/TradeAnalysis/TradeAnalysis.iml" />
       <module fileurl="file://$PROJECT_DIR$/TransactionSorter/TransactionSorter.iml" filepath="$PROJECT_DIR$/TransactionSorter/TransactionSorter.iml" />
